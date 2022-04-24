@@ -1,0 +1,16 @@
+downandgetup: 0
+upbendfrmwaist: 1
+walk: 2
+turnleft: 3
+brooming: 4
+turnright: 5
+cleaningwindows: 6
+fall-on-face: 7
+push-object: 8
+upbendfrmknees: 9
+upfromground: 10
+digital8: 11
+inchairstandup: 12
+walk-old-man: 13
+rugpull: 14
+pull-object: 15
